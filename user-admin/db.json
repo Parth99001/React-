@@ -1,0 +1,306 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "email": "almin@gmail.com",
+      "password": "23146548"
+    },
+    {
+      "id": "2daf",
+      "email": "parth@gamil.com",
+      "password": "4565452143"
+    },
+    {
+      "id": "82d9",
+      "email": "parth@gamil.com",
+      "password": "123"
+    },
+    {
+      "id": "7d26",
+      "email": "mitan@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "485c",
+      "email": "ishit@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "d573",
+      "email": "parth1@gamil.com",
+      "password": "123456"
+    },
+    {
+      "id": "6d74",
+      "email": "parth5@gamil.com",
+      "password": "123456"
+    },
+    {
+      "id": "d5ba",
+      "email": "mitan5@gamil.com",
+      "password": "123456"
+    },
+    {
+      "id": "8fd5",
+      "email": "parthgandhi@gamil.com",
+      "password": "123456"
+    },
+    {
+      "id": "7922",
+      "email": "parth25@gamil.com",
+      "password": "4565452143"
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "price": 25.99,
+      "description": "Ergonomic wireless mouse with a long battery life.",
+      "stock_quantity": 120,
+      "brand": "Logitech",
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "name": "Bluetooth Headphones",
+      "category": "Electronics",
+      "price": 99.99,
+      "description": "Noise-canceling Bluetooth headphones with over-ear design.",
+      "stock_quantity": 75,
+      "brand": "Sony",
+      "rating": 4.7
+    },
+    {
+      "id": "3",
+      "name": "LED Desk Lamp",
+      "category": "Home & Office",
+      "price": 39.99,
+      "description": "Adjustable LED desk lamp with touch control and multiple brightness settings.",
+      "stock_quantity": 150,
+      "brand": "Philips",
+      "rating": 4.3
+    },
+    {
+      "id": "4",
+      "name": "Smartphone",
+      "category": "Electronics",
+      "price": 799.99,
+      "description": "Latest smartphone with 128GB storage and 6GB RAM.",
+      "stock_quantity": 50,
+      "brand": "Apple",
+      "rating": 4.8
+    },
+    {
+      "id": "5",
+      "name": "Portable Power Bank",
+      "category": "Electronics",
+      "price": 29.99,
+      "description": "Compact power bank with 10,000mAh capacity.",
+      "stock_quantity": 200,
+      "brand": "Anker",
+      "rating": 4.6
+    },
+    {
+      "id": "6",
+      "name": "Electric Kettle",
+      "category": "Home & Kitchen",
+      "price": 49.99,
+      "description": "Fast boiling electric kettle with auto shut-off feature.",
+      "stock_quantity": 180,
+      "brand": "Hamilton Beach",
+      "rating": 4.4
+    },
+    {
+      "id": "7",
+      "name": "Cordless Vacuum Cleaner",
+      "category": "Home & Kitchen",
+      "price": 159.99,
+      "description": "Cordless vacuum cleaner with a powerful suction and HEPA filter.",
+      "stock_quantity": 60,
+      "brand": "Dyson",
+      "rating": 4.9
+    },
+    {
+      "id": "8",
+      "name": "Smart Watch",
+      "category": "Electronics",
+      "price": 199.99,
+      "description": "Water-resistant smart watch with fitness tracking and heart rate monitor.",
+      "stock_quantity": 100,
+      "brand": "Samsung",
+      "rating": 4.6
+    },
+    {
+      "id": "9",
+      "name": "Electric Toothbrush",
+      "category": "Health & Beauty",
+      "price": 79.99,
+      "description": "Electric toothbrush with 2-minute timer and multiple brush modes.",
+      "stock_quantity": 150,
+      "brand": "Oral-B",
+      "rating": 4.7
+    },
+    {
+      "id": "10",
+      "name": "Yoga Mat",
+      "category": "Sports & Outdoors",
+      "price": 19.99,
+      "description": "Non-slip yoga mat for comfort and stability.",
+      "stock_quantity": 250,
+      "brand": "Gaiam",
+      "rating": 4.5
+    },
+    {
+      "id": "11",
+      "name": "Camping Tent",
+      "category": "Sports & Outdoors",
+      "price": 99.99,
+      "description": "2-person camping tent with waterproof and UV-resistant fabric.",
+      "stock_quantity": 85,
+      "brand": "Coleman",
+      "rating": 4.4
+    },
+    {
+      "id": "12",
+      "name": "LED TV 55 inch",
+      "category": "Electronics",
+      "price": 499.99,
+      "description": "55-inch 4K LED Smart TV with voice control and streaming apps.",
+      "stock_quantity": 40,
+      "brand": "Samsung",
+      "rating": 4.6
+    },
+    {
+      "id": "13",
+      "name": "Men's Running Shoes",
+      "category": "Clothing & Accessories",
+      "price": 69.99,
+      "description": "Breathable running shoes with excellent cushioning and support.",
+      "stock_quantity": 200,
+      "brand": "Nike",
+      "rating": 4.7
+    },
+    {
+      "id": "14",
+      "name": "Women's Winter Jacket",
+      "category": "Clothing & Accessories",
+      "price": 129.99,
+      "description": "Insulated winter jacket for extreme cold weather.",
+      "stock_quantity": 90,
+      "brand": "Columbia",
+      "rating": 4.5
+    },
+    {
+      "id": "15",
+      "name": "Leather Wallet",
+      "category": "Clothing & Accessories",
+      "price": 39.99,
+      "description": "Premium leather wallet with RFID protection.",
+      "stock_quantity": 150,
+      "brand": "Tommy Hilfiger",
+      "rating": 4.3
+    },
+    {
+      "id": "16",
+      "name": "Smart Thermostat",
+      "category": "Home & Kitchen",
+      "price": 119.99,
+      "description": "Wi-Fi enabled smart thermostat with energy-saving features.",
+      "stock_quantity": 110,
+      "brand": "Nest",
+      "rating": 4.8
+    },
+    {
+      "id": "17",
+      "name": "Coffee Maker",
+      "category": "Home & Kitchen",
+      "price": 79.99,
+      "description": "Programmable coffee maker with a built-in grinder.",
+      "stock_quantity": 150,
+      "brand": "Cuisinart",
+      "rating": 4.5
+    },
+    {
+      "id": "18",
+      "name": "Electric Grill",
+      "category": "Home & Kitchen",
+      "price": 69.99,
+      "description": "Indoor electric grill with non-stick surface.",
+      "stock_quantity": 95,
+      "brand": "George Foreman",
+      "rating": 4.4
+    },
+    {
+      "id": "19",
+      "name": "Hand Blender",
+      "category": "Home & Kitchen",
+      "price": 29.99,
+      "description": "Multifunctional hand blender for soups, smoothies, and more.",
+      "stock_quantity": 200,
+      "brand": "Breville",
+      "rating": 4.6
+    },
+    {
+      "id": "20",
+      "name": "Pressure Cooker",
+      "category": "Home & Kitchen",
+      "price": 79.99,
+      "description": "Multi-function electric pressure cooker with multiple cooking modes.",
+      "stock_quantity": 130,
+      "brand": "Instant Pot",
+      "rating": 4.7
+    },
+    {
+      "id": "21",
+      "name": "Gaming Chair",
+      "category": "Furniture",
+      "price": 199.99,
+      "description": "Ergonomic gaming chair with adjustable armrests and lumbar support.",
+      "stock_quantity": 60,
+      "brand": "DXRacer",
+      "rating": 4.8
+    },
+    {
+      "id": "22",
+      "name": "Office Desk",
+      "category": "Furniture",
+      "price": 149.99,
+      "description": "Modern office desk with storage space and cable management.",
+      "stock_quantity": 85,
+      "brand": "Bush Furniture",
+      "rating": 4.3
+    },
+    {
+      "id": "23",
+      "name": "Bookshelf",
+      "category": "Furniture",
+      "price": 119.99,
+      "description": "5-shelf bookshelf for books and decorative items.",
+      "stock_quantity": 100,
+      "brand": "Sauder",
+      "rating": 4.6
+    },
+    {
+      "id": "24",
+      "name": "Memory Foam Mattress",
+      "category": "Furniture",
+      "price": 299.99,
+      "description": "Queen-sized memory foam mattress for optimal support and comfort.",
+      "stock_quantity": 30,
+      "brand": "Zinus",
+      "rating": 4.7
+    },
+    {
+      "id": "25",
+      "name": "King Size Bed",
+      "category": "Furniture",
+      "price": 399.99,
+      "description": "Durable king-size bed frame with stylish design.",
+      "stock_quantity": 50,
+      "brand": "Ashley Furniture",
+      "rating": 4.6
+    }
+  ]
+}
